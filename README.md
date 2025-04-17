@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Add your Google GenAI API key.
+
 First, run the development server:
 
 ```bash
